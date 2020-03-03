@@ -1,0 +1,2 @@
+# CadProjectMonitor
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/314b29a875734628b3cb17e514a9d7e3)](https://app.codacy.com/manual/tomekmgr/CadProjectMonitor?utm_source=github.com&utm_medium=referral&utm_content=tomekmgr/CadProjectMonitor&utm_campaign=Badge_Grade_Dashboard)
